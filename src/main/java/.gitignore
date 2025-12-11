@@ -1,0 +1,27 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled files / build
+target/
+out/
+
+# Maven / Gradle
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+*.env
+*.properties
+*.keystore
+
+# Node / other (optional)
+node_modules/
